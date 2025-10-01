@@ -29,8 +29,38 @@ In this lesson, we explored the following conceptual and historical developments
 - Commercial OS timeline: MS-DOS, Windows 3.1, Windows 95, NT, 2000
 - Current ecosystem: Windows, macOS, Linux (Desktop); Android and iOS (Mobile)
 
-✍️ John López  
-👉 GitHub: https://github.com/JohnJacobV8  
+Although no programming code was implemented, this class served as a foundational historical review crucial for understanding system-level software architecture and its socio-technical implications.
+
+Results
+
+Identified the phases of operating system development from non-existent to modern multitasking systems.
+
+Understood the technical and ideological split between BSD and Linux.
+
+Analyzed the influence of Unix on macOS and Linux, and by extension, on Android and iOS.
+
+Explored how GUIs revolutionized computing accessibility and commercial success.
+
+Positioned Linux as a critical tool for developers and researchers in high-performance and server environments.
+
+Personal Reflection
+
+This lesson reinforced the idea that operating systems are not only technical constructs but also products of historical innovation and social demand. Recognizing the evolution from monolithic, text-based systems to distributed, graphical environments helps me appreciate the complexity and elegance of current software ecosystems. For anyone pursuing software engineering or research, understanding the legacy and architecture of Unix and Linux is indispensable.
+
+Next Steps
+
+Explore Unix-based systems through hands-on terminal usage (macOS, Linux).
+
+Install and test multiple Linux distributions (e.g., Ubuntu, Fedora) in virtual machines.
+
+Study the architecture of Android to understand mobile adaptation of Linux.
+
+Compare kernel architectures: Monolithic (Linux) vs. Hybrid (Windows NT).
+
+Learn basic shell scripting and system-level commands to deepen OS interaction.
+
+✍️ John López
+👉 GitHub: https://github.com/JohnJacobV8
 🌐 LinkedIn: https://www.linkedin.com/in/johnjacobv8
 
-<img width="1024" height="1024" alt="OS EVOLUTION" src="https://github.com/user-attachments/assets/d7f4c729-ca4c-4ef6-afde-d0df9a99d89e" />
+<img width="1024" height="1024" alt="OS EVOLUTION" src="https://github.com/user-attachments/assets/bd33cc0d-a338-4c2f-90bc-88b3de118883" />
